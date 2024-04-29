@@ -8,7 +8,7 @@ Olá 👋 sou o Guilherme
 Estudante de Ciências da Computação | UniMetrocamp - Wyden
 -----------------------------
 
-Sou um entusiasta da programação com uma boa base em Python, Django, HTML, CSS e SQLite. Atualmente no terceiro semestre da faculdade, estou determinado a aprofundar meu conhecimento em desenvolvimento de software.
+Sou um entusiasta da programação com uma boa base em Python, Django, Flask, HTML, CSS e SQLite. Atualmente no terceiro semestre da faculdade, estou determinado a aprofundar meu conhecimento em desenvolvimento de software.
 
 ### Skills
 
